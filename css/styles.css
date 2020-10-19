@@ -290,7 +290,7 @@ img {
 }
 
 #input-left:checked~.animation .circle  {
-  transform: translate(35px, 0);
+  transform: translate(33px, 0);
 }
 
 
